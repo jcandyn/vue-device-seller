@@ -1,5 +1,5 @@
 {
-  "name": "sha-device-seller-ui",
+  "name": "jos-device-seller-ui",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
